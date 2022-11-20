@@ -1,0 +1,13 @@
+Django==3.2.14
+djangorestframework
+pytest-django
+django-environ
+psycopg2-binary
+PyJWT
+django-cors-headers
+django-heroku
+whitenoise
+gunicorn
+celery
+django-celery-results
+django-celery-beat==2.2.1
