@@ -37,8 +37,8 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # added apps
     "rest_framework",
-    'kingdoms',
-    'players',
+    'orders',
+    'users',
     'corsheaders',
     'django_celery_results',
     'django_celery_beat',

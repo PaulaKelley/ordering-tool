@@ -1,6 +1,6 @@
 from django.db import models
-from orderingTool.users.models import User
-from utils import now_timestamp
+from users.models import User
+from .utils import now_timestamp
 
 
 # Create your models here.
